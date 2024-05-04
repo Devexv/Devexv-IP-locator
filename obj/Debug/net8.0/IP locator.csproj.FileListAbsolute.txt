@@ -1,0 +1,17 @@
+C:\Users\mrKre\source\repos\IP locator\IP locator\bin\Debug\net8.0\IP locator.exe
+C:\Users\mrKre\source\repos\IP locator\IP locator\bin\Debug\net8.0\IP locator.deps.json
+C:\Users\mrKre\source\repos\IP locator\IP locator\bin\Debug\net8.0\IP locator.runtimeconfig.json
+C:\Users\mrKre\source\repos\IP locator\IP locator\bin\Debug\net8.0\IP locator.dll
+C:\Users\mrKre\source\repos\IP locator\IP locator\bin\Debug\net8.0\IP locator.pdb
+C:\Users\mrKre\source\repos\IP locator\IP locator\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\mrKre\source\repos\IP locator\IP locator\obj\Debug\net8.0\IP locator.csproj.AssemblyReference.cache
+C:\Users\mrKre\source\repos\IP locator\IP locator\obj\Debug\net8.0\IP locator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrKre\source\repos\IP locator\IP locator\obj\Debug\net8.0\IP locator.AssemblyInfoInputs.cache
+C:\Users\mrKre\source\repos\IP locator\IP locator\obj\Debug\net8.0\IP locator.AssemblyInfo.cs
+C:\Users\mrKre\source\repos\IP locator\IP locator\obj\Debug\net8.0\IP locator.csproj.CoreCompileInputs.cache
+C:\Users\mrKre\source\repos\IP locator\IP locator\obj\Debug\net8.0\IP locator.csproj.Up2Date
+C:\Users\mrKre\source\repos\IP locator\IP locator\obj\Debug\net8.0\IP locator.dll
+C:\Users\mrKre\source\repos\IP locator\IP locator\obj\Debug\net8.0\refint\IP locator.dll
+C:\Users\mrKre\source\repos\IP locator\IP locator\obj\Debug\net8.0\IP locator.pdb
+C:\Users\mrKre\source\repos\IP locator\IP locator\obj\Debug\net8.0\IP locator.genruntimeconfig.cache
+C:\Users\mrKre\source\repos\IP locator\IP locator\obj\Debug\net8.0\ref\IP locator.dll
